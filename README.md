@@ -8,7 +8,7 @@ Make sure you have git and bash installed on your system.
 
 ```bash
 git clone https://github.com/CzaxStudio/GhostRaptor
-# After this, enter the folder GhostRaptor is saved to
+# After this, enter the folder GhostRaptor is cloned to
 bash ghost.sh
 ```
 
