@@ -41,4 +41,4 @@ A huge shoutout to the original developers of the tools used in this script:
 
     MrSqar-Ye 
 
-**Educational use only! I don't have any responsibility of you using this tool for illegal use**
+**Educational use only! I don't have any responsibility of you using this tool for illegal purpose**
