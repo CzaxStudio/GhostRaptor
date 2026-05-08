@@ -4,7 +4,7 @@ Ghost Raptor is an easy to use hacking tool for people new in hacking.
 
 ## Get started
 
-Make sure you have git and bash installed on your system.
+Make sure you have **git** and **bash** installed on your system.
 
 ```bash
 git clone https://github.com/CzaxStudio/GhostRaptor
