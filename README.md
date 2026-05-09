@@ -27,7 +27,6 @@ Once launched, you can easily install:
     BadMod
 
 After this you select tool name and download the tools for free. 
-Special Thanks
 
 A huge shoutout to the original developers of the tools used in this script:
 
